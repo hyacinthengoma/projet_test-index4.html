@@ -1,0 +1,301 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+body{
+
+
+    background-color: beige
+   
+
+}
+.contact{
+
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+    margin-right: 40px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+.img1{
+
+    display: flex;
+    margin-top: -15px;
+height: 150px;
+margin-bottom: 14px;
+margin-left: 10px;
+}
+
+.haut{
+position: relative;
+    border: 1px solid black;
+display: block;
+margin: auto;
+padding: auto;
+top: 7px;
+bottom: auto;
+right: 12px;
+width: 1635px;
+
+}
+.categorie{
+
+    width: 180px;
+    display: inline-block;
+    margin-top: 15px;
+    left: 10px;
+    position: relative;
+    list-style-type: none;
+    
+}
+
+.menudroite{
+
+
+display: flex;
+position: relative;
+justify-content:center;
+margin-top: -340px;
+margin-right: 1045px;
+left: 20px;
+
+
+}
+
+.troisiemeparagraphe{
+
+    display: flex;
+    position: absolute;
+    margin-top: 200px;
+    margin-left:110px;
+
+}
+
+.deuxparagraphes{
+
+display: flex;
+position: relative;
+margin-left: 210px;
+margin-top: 10px;
+
+
+}
+
+
+
+/* .footer{
+
+position: absolute;
+display:flexbox;
+border: 1 solid black;
+width: 350px;
+padding: 12px;
+
+
+} */
+
+.denomination{
+position: absolute;
+display:flex;
+bottom: -10px;
+right:1340px;
+
+
+}
+.texteentredeux{
+
+display: flex;
+position: relative;
+bottom: 12px;
+right: 110px;
+font-size: 20px;
+
+}
+
+.footer{
+position: absolute;
+display: inline-block;
+border:1px solid black;
+top: 340px;
+width: 1437px;
+height: 100px;
+}
+
+.pagefooter{
+
+position: absolute;
+display: flex;
+top: 400px;
+left: 1250px;
+}
+
+
+.img3{
+
+width: 100px;
+display: flex;
+margin-top: 45px;
+margin-left: -445px;
+
+
+}
+.pagefooter{
+display: inline-block;
+position: absolute;
+top: 80px;
+
+
+}
+
+.lastparagraph{
+
+display: flex;
+position: relative;
+right: 450px;
+top: 27px;
+
+}
+
+
+.img2{
+
+    width: 300px;
+    display: flex;
+    margin-top: 35px;
+    margin-left: -200px;
+    margin-top: 40px;
+}
+
+.img4{
+    position: absolute;
+    width: 100px;
+    display: flex;
+    margin-top: 230px;
+    margin-left: -100px;
+
+
+
+
+}
+
+.liste1 ul {
+
+list-style: none;
+padding: 0;
+margin: 0;
+position: absolute;
+visibility: hidden;
+}
+.liste1 li{
+    position: relative;
+  list-style: none;
+  float: left;
+  
+}
+
+.liste1 ul li a{
+color: black;
+text-decoration: none;
+display: block;
+width: 150px;
+height: 30px;
+text-align: center;
+
+
+  }
+
+  .listederoulante{
+
+display: inline-block;
+position: absolute;
+left:1570px
+
+  }
+.liste1 ul li:hover ul{
+visibility: visible;
+    
+}
+
+.liste1 ul ul{
+
+    position: absolute;
+
+
+}
+
+.paragraphe3{
+
+    display: flex;
+    position: absolute;
+    margin-top: 42px;
+    margin-left: 6px;
+
+}
+
+/* 
+.pieddepage1{
+
+    
+    margin-bottom: 400px;
+    margin-left: 3px;
+    position: absolute;
+    display: flex;
+} */
+
+/* .copyright{
+
+        position: absolute;
+        display: flex;
+    margin-left: 800px;
+    margin-bottom: 10px;
+    margin: 0;
+} */
+
+
+
+
+
+/* .entreprise{
+
+
+display: flex;
+position: absolute;
+margin-top: 250px;
+margin-left: 40px;
+
+
+} */
+.paragraphe4{
+
+    display: flex;
+    position: relative;
+    margin-top: 500px;
+    margin-left: 6px;
+
+
+}
+
+.paragraphe1{
+
+display: flex;
+position: absolute;
+margin-top: 200px;
+
+
+
+
+}
+
+.titre{
+
+display: flex;
+margin-left: 210px;
+margin-top: 5px;
+
+
+}
